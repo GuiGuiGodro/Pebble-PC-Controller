@@ -1,0 +1,27 @@
+{
+    "appKeys": {
+        "ip": 2,
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Aeolyus",
+    "longName": "Controller",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Control",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7a2c6fd8-db10-4b19-9c3d-54a3f8a5463e",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
